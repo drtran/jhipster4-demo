@@ -3,6 +3,13 @@ This application was generated using JHipster 4.3.0, you can find documentation 
 
 ## Development
 
+### Special Note from Kiet: Monday 3 July 2017
+
+1. I forked from the original branch. I added javassist 3.20.0-GA to make this work for my environment
+2. I run yarn at command line.
+3. Then, I run ./mvnw
+
+### End Special Note from Kiet.
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
 1. [Node.js][]: We use Node to run a development web server and build the project.
